@@ -203,7 +203,6 @@
         <version>1.8.5</version>
         <scope>test</scope>
       </dependency>
-    </dependencies>
          
       <dependency>
          <groupId>org.apache.maven.plugins</groupId>
@@ -211,6 +210,7 @@
          <version>3.3.2</version>
          <type>maven-plugin</type>
       </dependency>
+      </dependencies>
   </dependencyManagement>
 
   <scm>
